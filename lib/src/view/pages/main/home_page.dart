@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:home_task/src/core/colors/colors.dart';
-import 'package:home_task/src/widgets/card.dart';
-import 'package:home_task/src/widgets/task_item_card_widget.dart';
+import 'package:home_task/src/view/widgets/card.dart';
+import 'package:home_task/src/view/widgets/task_item_card_widget.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});

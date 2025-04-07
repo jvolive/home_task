@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:home_task/src/widgets/layouts/main_tab_view.dart';
+import 'package:home_task/src/view/widgets/layouts/main_tab_view.dart';
 
 void main() {
   runApp(MyApp());

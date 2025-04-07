@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:home_task/src/core/colors/colors.dart';
-import 'package:home_task/src/pages/main/home_page.dart';
+import 'package:home_task/src/view/pages/main/home_page.dart';
 
 class MainTabView extends StatefulWidget {
   const MainTabView({super.key});
